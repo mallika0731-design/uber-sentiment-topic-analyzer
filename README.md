@@ -20,21 +20,6 @@ It performs:
 
 The workflow combines *fast ML baselines* (Logistic Regression, KNN) with *context-aware deep learning* (DistilBERT) for a complete end-to-end solution.
 
----
-
-## Demo Video
-
-<video controls width="720">
-  <source src="uber vid.mp4" type="video/mp4">
-  Your browser does not support the video tag. Download the video [here](uber vid.mp4).
-</video>
-
----
-## Demo Video
-
-<video controls width="720">
-  <source src="uber vid.mp4" type="video/mp4">
- 
 
 ## Screenshots & Static Visuals
 
