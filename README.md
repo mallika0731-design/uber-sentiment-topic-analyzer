@@ -30,6 +30,11 @@ The workflow combines *fast ML baselines* (Logistic Regression, KNN) with *conte
 </video>
 
 ---
+## Demo Video
+
+<video controls width="720">
+  <source src="uber vid.mp4" type="video/mp4">
+ 
 
 ## Screenshots & Static Visuals
 
@@ -79,14 +84,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn torch transformers word
 3. Run notebook sequentially:
    - Data Loading → Sentiment Labeling → TF-IDF → ML → NLP → WordCloud → Topic Classification  
 4. Output images (uber 1 → uber 7) and video (uber vid) display inline  
-
----
-
-## Live Demo
-
-![Output1](uber%205.gif)  
-![Output2](uber%206.gif)  
-![Output3](uber%207.gif).
 
 ---
 
