@@ -35,13 +35,14 @@ The workflow combines *fast ML baselines* (Logistic Regression, KNN) with *conte
 
 Here are key outputs from the project:
 
-![Screenshot](uber 1.jpeg)  
-![Screenshot](uber 2.jpeg)  
-![Screenshot](uber 3.jpeg)  
-![Screenshot](uber 4.jpeg)  
-![Screenshot](uber 5.jpeg)  
-![Screenshot](uber 6.jpeg)  
-![Screenshot](uber 7.jpeg)  
+![Output1](uber%201.jpeg)  
+![Output2](uber%202.jpeg)  
+![Output3](uber%203.jpeg)  
+![Output4](uber%204.jpeg)
+![Output1](uber%205.jpeg)  
+![Output2](uber%206.jpeg)  
+![Output3](uber%207.jpeg)  
+
 
 These illustrate:  
 - Frequent term WordClouds  
