@@ -75,3 +75,34 @@ These illustrate:
 
 1. Open UberSentimentProject.ipynb in Colab or Jupyter Notebook  
 2. Install dependencies:
+pip install pandas numpy matplotlib seaborn scikit-learn torch transformers wordcloud
+3. Run notebook sequentially:
+   - Data Loading → Sentiment Labeling → TF-IDF → ML → NLP → WordCloud → Topic Classification  
+4. Output images (uber 1 → uber 7) and video (uber vid) display inline  
+
+---
+
+## Optional GIFs for Live Demo
+
+You can make your README *interactive and animated* by replacing screenshots with GIFs:
+
+![Uber ML & NLP Demo](uber 1.gif)  
+![Topic Clustering GIF](uber 2.gif)  
+![WordCloud GIF](uber 3.gif)  
+![DistilBERT Predictions GIF](uber 4.gif)  
+
+> Record notebook actions, convert to GIFs, and replace placeholders to make a *dynamic, recruiter-ready README*.
+
+---
+
+## Key Takeaways
+
+- Classical ML (Logistic Regression, KNN) provide *fast and strong baselines*  
+- DistilBERT captures *contextual sentiment* effectively  
+- Topic-wise classification uncovers *hidden insights* in reviews  
+- Neutral class predictions are *enhanced using class weights*  
+- Workflow is *reproducible, visually appealing, and portfolio-ready*  
+
+---
+
+> This project demonstrates an *end-to-end ML + NLP solution*, ready for deployment and portfolio presentation.
