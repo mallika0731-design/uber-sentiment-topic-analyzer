@@ -1,36 +1,4 @@
- # 🚀 Uber Sentiment & Topic Analyzer  
-
-An end-to-end NLP system that analyzes Uber user reviews to extract sentiment, identify key topics, and generate actionable insights using Machine Learning and Deep Learning.
-
----
-
-## 🔥 Overview  
-
-This project converts raw Uber reviews into meaningful insights using:
-
-- Sentiment Analysis (Negative / Neutral / Positive)  
-- Topic Modeling (what users are talking about)  
-- Machine Learning + Deep Learning models  
-
-The goal is not just prediction — but *understanding customer experience at scale*.
-
----
-
-## 📸 Output Preview  
-
-### 🔹 Model Outputs  
-
-![Output1](uber%201.jpeg)  
-![Output2](uber%202.jpeg)  
-![Output3](uber%203.jpeg)  
-![Output4](uber%204.jpeg)  
-
----
-
-## 🎥 Project Demo  
-
-[![Watch Demo](uber%201.jpeg)](u…
-[00:18, 18/03/2026] Mallika Bhardwaj: # Uber Sentiment & Topic Analyzer
+# Uber Sentiment & Topic Analyzer
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-green)
@@ -105,4 +73,4 @@ These illustrate:
 ## How to Run
 
 1. Open UberSentimentProject.ipynb in Colab or Jupyter Notebook  
-2. Install dependencies
+2. Install dependencies:
