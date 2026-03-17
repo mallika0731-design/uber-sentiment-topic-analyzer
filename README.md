@@ -1,4 +1,4 @@
-# 🚀 Uber Sentiment & Topic Analyzer  
+[00:04, 18/03/2026] Mallika Bhardwaj: # 🚀 Uber Sentiment & Topic Analyzer  
 
 An end-to-end NLP system that analyzes Uber user reviews to extract sentiment, identify key topics, and generate actionable insights using Machine Learning and Deep Learning.
 
@@ -29,107 +29,80 @@ The goal is not just prediction — but *understanding customer experience at sc
 
 ## 🎥 Project Demo  
 
-[![Watch Demo](uber%201.jpeg)](uber%20vid.mp4)
+[![Watch Demo](uber%201.jpeg)](u…
+[00:18, 18/03/2026] Mallika Bhardwaj: # Uber Sentiment & Topic Analyzer
 
-> If the video does not play on GitHub, download uber vid.mp4 to view it.
-
----
-
-## ⚙️ Pipeline  
-
-Raw Uber Reviews  
-↓  
-Text Cleaning & Preprocessing  
-↓  
-TF-IDF Vectorization  
-↓  
-Machine Learning Models  
-↓  
-Deep Learning (DistilBERT)  
-↓  
-Topic Modeling  
-↓  
-Insights  
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-green)
+![ML](https://img.shields.io/badge/ML-Logistic%20|%20KNN-yellow)
+![DL](https://img.shields.io/badge/DL-DistilBERT-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
-## 🧠 Models Used  
+## Project Overview
 
-### 🔹 Machine Learning  
-- Logistic Regression  
-- K-Nearest Neighbors (KNN)  
+This project analyzes Uber reviews using *classical ML models* and *deep learning NLP*.  
+It performs:
 
-### 🔹 Deep Learning  
-- DistilBERT  
+- *Sentiment Analysis:* Negative / Neutral / Positive  
+- *Topic-wise Classification:* Detecting recurring themes in reviews  
+- *Visualization:* WordClouds for frequent terms  
+- *Deployment-ready workflows:* Google Colab & Jupyter compatible  
 
----
-
-## 📊 Performance  
-
-- Logistic Regression: ~83% accuracy  
-- KNN: moderate performance  
-- DistilBERT: ~88% accuracy  
-
-> Note: Dataset is highly imbalanced, especially for the neutral class.
+The workflow combines *fast ML baselines* (Logistic Regression, KNN) with *context-aware deep learning* (DistilBERT) for a complete end-to-end solution.
 
 ---
 
-## ⚠️ Key Challenge: Neutral Class  
+## Demo Video
 
-- Very few samples  
-- Ambiguous language  
-
-### ✔ Approach Taken  
-- Class weighting  
-- Stratified split  
-- Transformer-based modeling  
+<video controls width="720">
+  <source src="uber vid.mp4" type="video/mp4">
+  Your browser does not support the video tag. Download the video [here](uber vid.mp4).
+</video>
 
 ---
 
-## 📌 Key Insights  
+## Screenshots & Static Visuals
 
-### 🚨 Negative Feedback  
-- Driver behavior issues  
-- Ride cancellations  
-- Delays  
+Here are key outputs from the project:
 
-### 😊 Positive Feedback  
-- Comfortable rides  
-- Smooth experience  
+![Screenshot](uber 1.jpeg)  
+![Screenshot](uber 2.jpeg)  
+![Screenshot](uber 3.jpeg)  
+![Screenshot](uber 4.jpeg)  
+![Screenshot](uber 5.jpeg)  
+![Screenshot](uber 6.jpeg)  
+![Screenshot](uber 7.jpeg)  
 
----
-
-## 🌐 Deployment  
-
-This project can be deployed using:
-
-- Streamlit  
-- Gradio  
-- Flask  
+These illustrate:  
+- Frequent term WordClouds  
+- Topic-wise review clustering  
+- ML and NLP model predictions  
 
 ---
 
-## 💡 Future Improvements  
+## Features
 
-- Improve neutral sentiment prediction  
-- Fine-tune DistilBERT  
-- Real-time dashboard  
-- Cloud deployment  
-
----
-
-## 👩‍💻 Author  
-
-Mallika Bhardwaj  
-MSc Mathematics  
-Data Science & Decision Science, IIT Delhi  
+- *ML Models:* Logistic Regression, KNN  
+- *Deep Learning NLP:* DistilBERT for contextual understanding  
+- *WordClouds:* Identify most frequent words visually  
+- *Class Imbalance Handling:* Class weights improve neutral predictions  
+- *Topic-wise Classification:* Reveals hidden feedback patterns  
+- *Deployment Ready:* Can run in Colab or Jupyter  
 
 ---
 
-## 🚀 Final Note  
+## Results
 
-This project demonstrates how NLP can transform unstructured text into actionable insights using machine learning and deep learning.
+- *Overall Accuracy:* ~88%  
+- *Neutral Class Performance:* Significantly improved with class weights  
+- *ML Baselines:* Fast and interpretable results  
+- *Deep Learning:* Contextual sentiment detection for complex text  
 
 ---
 
-⭐ If you found this useful, consider starring the repository.
+## How to Run
+
+1. Open UberSentimentProject.ipynb in Colab or Jupyter Notebook  
+2. Install dependencies
