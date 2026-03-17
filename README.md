@@ -1,4 +1,4 @@
-[00:04, 18/03/2026] Mallika Bhardwaj: # 🚀 Uber Sentiment & Topic Analyzer  
+ # 🚀 Uber Sentiment & Topic Analyzer  
 
 An end-to-end NLP system that analyzes Uber user reviews to extract sentiment, identify key topics, and generate actionable insights using Machine Learning and Deep Learning.
 
