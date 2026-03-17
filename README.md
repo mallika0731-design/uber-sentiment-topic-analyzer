@@ -82,16 +82,11 @@ pip install pandas numpy matplotlib seaborn scikit-learn torch transformers word
 
 ---
 
-## Optional GIFs for Live Demo
+## Live Demo
 
-You can make your README *interactive and animated* by replacing screenshots with GIFs:
-
-![Uber ML & NLP Demo](uber 1.gif)  
-![Topic Clustering GIF](uber 2.gif)  
-![WordCloud GIF](uber 3.gif)  
-![DistilBERT Predictions GIF](uber 4.gif)  
-
-> Record notebook actions, convert to GIFs, and replace placeholders to make a *dynamic, recruiter-ready README*.
+![Output1](uber%205.gif)  
+![Output2](uber%206.gif)  
+![Output3](uber%207.gif).
 
 ---
 
