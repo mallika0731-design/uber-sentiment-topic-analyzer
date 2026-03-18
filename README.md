@@ -33,6 +33,11 @@ Here are key outputs from the project:
 ![Output2](uber%206.jpeg)  
 ![Output3](uber%207.jpeg)  
 
+ ## Demo Video
+
+Click below to watch the full demo:
+
+[![Uber Sentiment Demo](uber 1.jpeg)](uber vid.mp4)
 
 These illustrate:  
 - Frequent term WordClouds  
